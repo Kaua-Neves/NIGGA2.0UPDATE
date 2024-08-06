@@ -5,15 +5,15 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
-    {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+    {Assim
+        enunciado: "Numa situação hipotética, vocÊ é assaltado por um homem armado.Mas lembra que teve aulas de autodefesa.Oque vocÊ faz?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Sai correndo ",
                 afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Reage ao assalto.",
                 afirmacao: "Quis saber como usar IA no seu dia a dia."
             }
         ]
