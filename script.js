@@ -9,7 +9,7 @@ const perguntas = [
         enunciado: "Numa situação hipotética, vocÊ é assaltado por um homem armado.Mas lembra que teve aulas de autodefesa.Oque vocÊ faz?",
         alternativas: [
             {
-                texto: "Sai correndo ",
+                texto: "Sai correndo .",
                 afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
             },
             {
